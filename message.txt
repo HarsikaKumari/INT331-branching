@@ -1,1 +1,2 @@
 welcome from the feature branch, feature work completed
+This is the text I want to add in payment-feature
